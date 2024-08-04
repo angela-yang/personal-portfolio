@@ -71,26 +71,6 @@ header {
     pointer-events: none;
 }
 
-.parallax h2 {
-    position: absolute;
-    justify-content: right;
-    top: 22%;
-    left: 18%;
-    font-size: 3em;
-    color: #ffffff;
-    margin-bottom: 10px;
-}
-
-.parallax p {
-    position: absolute;
-    justify-content: right;
-    top: 22%;
-    left: 18%;
-    font-size: 1em;
-    color: #ffffff;
-    font-weight: 300;
-}
-
 .aboutme {
     position: relative;
     background: #2c263a;
